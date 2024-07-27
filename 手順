@@ -1,0 +1,4 @@
+１:nodeのインストール
+２：npm install -g typescript
+３:tsc --version
+４：tsc --init
