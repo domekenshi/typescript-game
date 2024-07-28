@@ -1,2 +1,4 @@
-import Screen from "./class/Screen.js";
-console.log(Screen.Height);
+import Screen from "./class/screen.js";
+import Keyboard from "./class/keyboard.js";
+
+new Keyboard();
