@@ -2,3 +2,11 @@
 ２：npm install -g typescript
 ３:tsc --version
 ４：tsc --init
+// JSファイルクリア
+５：tsc --build --clean
+
+// 型定義ファイル
+// 型定義を持たないJSライブラリ（JQueryとか）を定義しておく
+// 実行時にはJQueryの存在を知ることができないため
+
+

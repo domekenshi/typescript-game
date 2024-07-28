@@ -1,0 +1,7 @@
+/* 全体のスタイル */
+body {
+  color: white;
+  background-color: black;
+  margin: 0;
+  overflow: hidden;
+}
